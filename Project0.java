@@ -1,7 +1,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Project0 {
+public class javaproject {
 	
 	public static void main(String[] args) {
 		//variable for the input
