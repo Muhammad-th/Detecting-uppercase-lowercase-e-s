@@ -1,6 +1,3 @@
-//@author Muhammad Humayun
-//@section 11D
-//@date 9/29/2021
 
 import javax.swing.JOptionPane;
 
